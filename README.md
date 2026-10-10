@@ -1,6 +1,5 @@
 # Live Go
 ## ライブの準備・費用管理アプリケーション
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-5ymytvlf)
 
 ## 1.概要（Overview）
 Live Go は、音楽ライブやフェスに特化した「持ち物チェックリスト」と「費用管理」機能を備えたWebアプリケーションです。ライブ初心者の不安を解消し、ライブに伴う準備のハードルを下げることを目的として開発しました。
