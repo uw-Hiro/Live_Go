@@ -43,7 +43,9 @@ Live Go は、音楽ライブやフェスに特化した「持ち物チェック
 - **開発環境の最適化**: Docker を用いたコンテナ化による環境依存の排除
 - **本番環境の構築**: AWSへのデプロイと一般公開
 
-## 設定
+## 7.ローカル環境での起動方法 (Getting Started)
+以下の手順で、お手元のPC（ローカル環境）でアプリを起動できます。  
+
 ```bash
 1.リボジトリをクローンする
 git clone [https://github.com/uw-Hiro/Live_Go.git](https://github.com/uw-Hiro/Live_Go.git)
@@ -57,4 +59,4 @@ npm install
 4.開発用サーバーを立ち上げます。
 npm run dev
 
-5.ブラウザで http://localhost:5173（またはターミナルに表示されたURL）にアクセスすると、アプリが表示されます。
+### ブラウザで http://localhost:5173（またはターミナルに表示されたURL）にアクセスすると、アプリが表示されます。
