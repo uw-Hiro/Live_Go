@@ -2,6 +2,8 @@
 
 [![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-5ymytvlf)
 
+https://docs.google.com/document/d/1nhsUUoVS8yiHgWruCcioK--lQox0xfDMR33lTxfkGWU/edit?usp=sharing
+
 Live Goは、音楽ライブやイベント遠征に特化した予算・スケジュール管理アプリケーションです。
 
 ## 開発の背景と目的
